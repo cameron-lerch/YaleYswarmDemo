@@ -1,6 +1,8 @@
 # Yale "Y" Crazyflie Swarm Demo
 
-<!-- Drag and drop the demo video here -->
+<!-- swarm video-->
+
+https://github.com/user-attachments/assets/eaf719cc-9f1e-4e9b-a9e2-4099401fe3b1
 
 This was my first experience with the [Bitcraze Crazyflie 2.1](https://www.bitcraze.io/products/old-products/crazyflie-2-1/). I built this demo for the Intelligent Autonomy Lab to show prospective PhD students during their visit to Yale.
 
